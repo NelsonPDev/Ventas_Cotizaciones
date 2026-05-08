@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 420" role="img" aria-labelledby="title desc">
+    <title id="title">COMUN&amp;ITEC</title>
+    <desc id="desc">Comercializacion e instalacion de tecnologias</desc>
+    <rect width="860" height="420" fill="#ffffff"/>
+    <g fill="none" stroke="#006c6f" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M258 151c-8-62 50-112 111-93 28-47 102-52 137-8 20-9 45-6 62 9 18 15 27 38 23 61 31 4 58 31 58 64 0 36-29 65-65 65h-75" stroke-width="36"/>
+        <path d="M257 249h-30c-36 0-65-29-65-65 0-33 25-61 58-64 8-45 48-79 95-79h35" stroke-width="36"/>
+        <path d="M383 240h-85" stroke-width="22"/>
+        <path d="M383 192h-85" stroke-width="22"/>
+        <path d="M382 216h48" stroke-width="68"/>
+        <path d="M438 186c21 17 21 43 0 60" stroke-width="16"/>
+        <path d="M469 165c38 36 38 101 0 137" stroke-width="15"/>
+    </g>
+    <circle cx="401" cy="216" r="10" fill="#ffffff"/>
+    <text x="430" y="313" text-anchor="middle" fill="#006c6f" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="300">COMUN&amp;ITEC</text>
+    <rect x="112" y="338" width="636" height="31" fill="#006c6f"/>
+    <text x="430" y="361" text-anchor="middle" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700">COMERCIALIZACION E INSTALACION DE TECNOLOGIAS</text>
+</svg>
